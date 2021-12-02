@@ -1,0 +1,5 @@
+Credentials cache: API:2CF981BA-3ECA-4C82-A57F-CF5D4701AE5E
+        Principal: algaspar@S19.BE
+
+  Issued                Expires               Principal
+Nov  9 21:08:18 2021  Nov 10 21:08:13 2021  krbtgt/S19.BE@S19.BE
